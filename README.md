@@ -203,7 +203,7 @@ All five ran in Google Colab with the data on Google Drive. They're unchanged ex
 
 ## Literature review
 
-Before choosing an approach, I reviewed what others had done with candlestick patterns and clustering:
+Towards the end of the internship, I reviewed what others had done with candlestick patterns and clustering, as approaches for the next stage:
 
 | Source | What it offered | Limitations | Useful? |
 |---|---|---|---|
